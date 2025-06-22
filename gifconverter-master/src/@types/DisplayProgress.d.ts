@@ -1,3 +1,0 @@
-interface DisplayProgressStates {
-    ratio: number;
-}
